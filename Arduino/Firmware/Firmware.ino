@@ -9,7 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define WheelEncoder_PIN_CH_A	2
+#define WheelEncoder_PIN_CH_B	3
 
 // =======================Pin Definitions // ===================================
 
